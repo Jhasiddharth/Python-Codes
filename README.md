@@ -1,7 +1,6 @@
 # Python Codes
 
-A collection of Python coding problems and solutions.
-
+Python fundamentals practice — building toward QA automation.
 ## Topics
 
 - Basics
