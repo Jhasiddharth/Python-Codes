@@ -1,8 +1,8 @@
 # Python Codes
 
-Python fundamentals practice — building toward QA automation.
-## Topics
+A collection of Python coding probelms and solution
 
+## Topics
 - Basics
 - Numbers
 - Recursion
