@@ -6,7 +6,7 @@ A collection of Python coding problems and solutions.
 
 - Basics
 - Numbers
-- Codes for Recursion
+- Recursion
 - Arrays
 - Strings
 - Patterns
