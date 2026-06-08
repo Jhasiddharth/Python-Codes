@@ -1,9 +1,8 @@
 # Python Codes
 
-A collection of Python coding problems and solutions.
+A collection of Python coding probelms and solution
 
 ## Topics
-
 - Basics
 - Numbers
 - Recursion
