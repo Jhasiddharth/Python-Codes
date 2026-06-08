@@ -8,7 +8,12 @@ num = int(input("Enter a number: "))
 #print("The sum of the first", num, "natural numbers is:", sum_of_natural_numbers)
 
 # Alternative method using a loop
-sum_of_natural_numbers_loop = 0
-for i in range(1, num + 1):
-    sum_of_natural_numbers_loop += i
-print("The sum of the first", num, "natural numbers using loop is:", sum_of_natural_numbers_loop)
+if num <= 0:
+    print("Please enter a positive number.")
+else:
+    total_sum = 0
+
+    for i in range(1, num + 1):
+        total_sum += i
+
+    print("The sum of the first", num, "natural numbers is:", total_sum)
